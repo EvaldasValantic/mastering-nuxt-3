@@ -8,9 +8,11 @@
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
   ></iframe>
+  <VButton/>
 </template>
 
 <script setup>
+import VButton from './VButton.vue'
 const props = defineProps({
   videoId: {
     type: Number,

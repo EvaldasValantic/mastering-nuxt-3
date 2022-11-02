@@ -6,3 +6,9 @@ node_modules
 .output
 .env
 dist
+.vscode
+.history
+stories
+.yarn
+.npm
+.yarnrc.yml
