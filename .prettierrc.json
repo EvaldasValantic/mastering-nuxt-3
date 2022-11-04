@@ -1,0 +1,9 @@
+{
+  "semi": false,
+  "arrowParens": "always",
+  "singleQuote": true,
+  "trailingComma": "none",
+  "endOfLine":"auto",
+  "no-multiple-empty-lines": ["error", { "max": 2 }]
+}
+ 
