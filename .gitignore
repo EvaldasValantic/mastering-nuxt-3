@@ -8,3 +8,5 @@ node_modules
 dist
 .history
 .vscode
+.DS_Store
+.idea
